@@ -4,9 +4,9 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]
-                 [com.badlogicgames.gdx/gdx "1.2.1-SNAPSHOT"]
-                 [com.badlogicgames.gdx/gdx-backend-lwjgl "1.2.1-SNAPSHOT"]
-                 [com.badlogicgames.gdx/gdx-platform "1.2.1-SNAPSHOT"
+                 [com.badlogicgames.gdx/gdx "1.4.1"]
+                 [com.badlogicgames.gdx/gdx-backend-lwjgl "1.4.1"]
+                 [com.badlogicgames.gdx/gdx-platform "1.4.1"
                   :classifier "natives-desktop"]]
   :repositories [["sonatype"
                   "https://oss.sonatype.org/content/repositories/snapshots/"]])
