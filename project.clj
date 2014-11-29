@@ -9,4 +9,4 @@
                  [com.badlogicgames.gdx/gdx-platform "1.4.1"
                   :classifier "natives-desktop"]]
   :repositories [["sonatype"
-                  "https://oss.sonatype.org/content/repositories/snapshots/"]])
+                  "https://oss.sonatype.org/content/repositories/releases/"]])
